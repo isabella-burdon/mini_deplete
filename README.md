@@ -1,7 +1,7 @@
 # mini_deplete
 Simple python tool to deplete reads that map to the phage lambda genome or chm13 with minimap2
 
-To install: git clone <link>
+Git clone to install
 
 To run type in to terminal: python deplete.py
 
